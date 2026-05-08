@@ -277,3 +277,13 @@ Distribuido bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para m�
 - [Anthropic / Claude](https://anthropic.com) — por el motor de IA
 - [n8n](https://n8n.io) — por la automatización de workflows
 - [Google Fonts](https://fonts.google.com) — Plus Jakarta Sans & Inter
+
+
+## 💬 Preguntas y Soporte
+
+<p align="center">
+  <a href="https://wa.me/526121077805?text=Hola%20Oscar%2C%20vi%20tu%20proyecto%20en%20GitHub%20y%20quisiera%20preguntarte...">
+    <img src="https://img.shields.io/badge/WhatsApp-Contactar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</p>
+
